@@ -1,6 +1,3 @@
 # Repo-1
-
-Daniel's README file. 
-
-Daniel's README file. 
+Welcome to my repository! This is a README file, that contains information about this project. Please read it before creating branches or committing changes!
 
